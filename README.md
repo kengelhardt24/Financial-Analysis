@@ -17,7 +17,7 @@ The greatest increase in profits (date and amount) over the entire period
 
 The greatest decrease in profits (date and amount) over the entire period
 
-### Your analysis should align with the following results:
+Your analysis should align with the following results:
 
 Financial Analysis
 ----------------------------
@@ -43,7 +43,7 @@ The total number of votes each candidate won
 
 The winner of the election based on popular vote
 
-### Your analysis should align with the following results:
+Your analysis should align with the following results:
 
 Election Results
 -------------------------
